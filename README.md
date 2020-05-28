@@ -8,5 +8,5 @@ Segundo pesquisas realizadas da WebAIM em 2017, indica qual leitor de tela é o 
 Usando essas informações como parâmetro, esse projeto foi desenvolvido usando o leitor de telas NVDA para testes, pelo fato do mesmo ser o leitor de telas que da para ser instalado em sistemas operacionais Windows e ter o melhor comportamento no navegador Firefox.
 
 
-
+Neste projeto tivemos todo o cuidado de organizar os titulos do código e consequentemente da navegação por ordem de importancia, também tivemos o cuidado de descrever uma representação textual para cada imagem, logo ou icone da pagina.
 
